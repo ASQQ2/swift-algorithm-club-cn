@@ -85,7 +85,7 @@ linearSearch(array, 2) 	// This will return 1
 ## 扩展
 
 [线性搜索-维基百科](https://en.wikipedia.org/wiki/Linear_search)    
-*作者 [帕特里克·巴莱斯特拉](http://www.github.com/BalestraPatrick)*
+*作者 [帕特里克·巴莱斯特拉](http://www.github.com/BalestraPatrick); 译者 AS*  
 
 
 
